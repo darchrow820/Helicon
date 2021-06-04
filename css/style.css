@@ -32,8 +32,13 @@ body {
 }
 
 .title {
+  margin-bottom: 50px;
   font-size: 48px;
   text-transform: uppercase;
+}
+
+.subtitle {
+  margin-bottom: 30px;
 }
 
 .container {
